@@ -1,0 +1,75 @@
+
+.nav-item a {
+    color: #2d3e50 !important;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.nav-item a:hover {
+    color: #5e068a !important;
+} 
+
+.carousel-item img {
+    height: 600px;
+
+}
+
+.carousel-caption h1 {
+    font-size: 60px !important;
+    font-weight: 600;
+    text-align: left;
+}
+
+.container h3 {
+    color: #5e068a;
+    font-weight: 600;
+    font-size: 32px;
+    /* margin-bottom: 20px; */
+}
+
+.container span {
+    color:#5e068a99;
+}
+.container p {
+    line-height: 30px;
+    padding-right: 25px;
+    font-size: 16px;
+}
+
+.btn-new {
+    background: #5e068a;
+    color: white;
+    border: 2px solid #5e068a;
+    height: 55px;
+    width: 160px;
+    border-radius: 30px;
+    font-weight: 600;
+    /* border: none; */
+}
+
+.btn-new:hover {
+    background: white;
+    color: #5e068a;
+    border: 2px solid #5e068a;
+    transition: 0.5s;
+}
+
+.card-title {
+    color: #5e068a;
+    font-weight: 600;
+}
+
+.card-text {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.container .card a {
+    background: #5e068a;
+    color: white;
+    border: none;
+    border-radius: 0;
+    font-weight: 600;
+    padding: 10px;
+    width: 130px;
+}
